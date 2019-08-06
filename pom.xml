@@ -12,6 +12,7 @@
         <module>springCloud-config-3344</module>
         <module>springCloud-client-3355</module>
         <module>springCloud-eureka-7001</module>
+        <module>springcloud-provider-8001</module>
     </modules>
 
     <properties>
